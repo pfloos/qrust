@@ -7,4 +7,5 @@ edition = "2021"
 
 [dependencies]
 ferris-says = "0.2"
-
+nalgebra = "0.25.2"
+lapack = "0.17.0"
